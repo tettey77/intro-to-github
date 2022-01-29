@@ -3,3 +3,5 @@ Kofi is eating.
 Kofi is going to the market.
 Kofi is going to visit Ama.
 Kofi is going to play
+
+Prince is hosting an event.
